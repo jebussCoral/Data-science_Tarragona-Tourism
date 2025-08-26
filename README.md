@@ -77,4 +77,4 @@ Overall, Tarragona’s tourism economy is supported by nationals during the low 
 ---
 
 ## Author
-Prepared by [Your Name], 2025.
+Prepared by David Coral, 2025.
